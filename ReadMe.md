@@ -37,8 +37,10 @@ How To Play :
 3. Every move has to follow cell type rules defined above.
 4. Maximum ten chances will be awarded to each player.
 5. After ten chances, player with maximum money, will be declared as the winner.
+
 Inputs :
 You can hard code below values in code, no need to parse them.
+
 Initial money in bank : 5000
 Initial money for each player : 1000
 Hotels :
