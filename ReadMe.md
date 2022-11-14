@@ -62,6 +62,7 @@ Player-3 has total money 1150 and asset of amount : 0
 Balance at Bank : 5150
 
 ● Input set two:
+
 Cells (10 cells only): "J,H,L,H,E,L,H,L,H,J"
 Dice Output : "2,2,1, 4,2,3, 4,1,3, 2,2,7, 4,7,2, 4,4,2, 2,2,2"
 Player : 3
