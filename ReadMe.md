@@ -43,12 +43,13 @@ You can hard code below values in code, no need to parse them.
 
 Initial money in bank : 5000
 Initial money for each player : 1000
-Hotels :
+Hotels:
 ● Silver -> Value = 200, Rent = 50
 ● Gold -> Value = 300, Rent = 150
 ● Platinum -> Value = 500, Rent = 300
 Jail Fine: 150 & Lottery Value: 200
 J- Jail, H- Hotel, L- Lottery, E- Empty Cell
+
 ● Input set one:
 
 Cells (10 cells only): "J,H,L,H,E,L,H,L,H,J"
@@ -61,7 +62,6 @@ Player-3 has total money 1150 and asset of amount : 0
 Balance at Bank : 5150
 
 ● Input set two:
-
 Cells (10 cells only): "J,H,L,H,E,L,H,L,H,J"
 Dice Output : "2,2,1, 4,2,3, 4,1,3, 2,2,7, 4,7,2, 4,4,2, 2,2,2"
 Player : 3
